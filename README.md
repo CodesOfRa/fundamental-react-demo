@@ -5,14 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To import fiori-fundamentals and fundamental-react run
 
 ```
-npm install --save fiori-fundamentals
 npm install --save fundamental-react
 ```
 
 Load the fiori-fundamentals styles in App.css
 
 ```javascript
-@import '../node_modules/fiori-fundamentals/dist/fiori-fundamentals.min.css';
+@import '../node_modules/fiori-fundamentals/lib/fiori-fundamentals.min.css';
 ```
 
 Use a fundamental-react component
