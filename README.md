@@ -17,7 +17,7 @@ Load the fiori-fundamentals styles in App.css
 Use a fundamental-react component
 
 ```javascript
-import {Button} from 'fundamental-react/lib/Button/Button';
+import Button from 'fundamental-react/lib/Button/Button';
 ...
 <Button>Click me</Button>
 ```
