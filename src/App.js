@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import {Button} from 'fundamental-react/dist/Button/Button';
+import Button from 'fundamental-react/lib/Button/Button';
 
 class App extends Component {
   render() {
